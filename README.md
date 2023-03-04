@@ -7,13 +7,13 @@
 3. Push this repository from the command line to Github.
    **NOTE:**: When adding this repository to Github, you will need to replace the word `origin` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `origin`
 
-
 ## 🛠 Requirements
 
 1. Your commits and Pull Request **MUST EXCLUDE** OS generated files/folders and files with sensitive data. (i.e: OS-specific and editor specific settings, debug logs, build tools, etc).
 2. Your commit message should have a subject line and body. It should follow the 7 commit message convention guidelines
 
 ## 📝 Instructions
+
 1. Create a new branch off your local `main` branch called, `feature/bug-tracking`
 2. Create a `.gitignore` file
 3. Create a `.env.local` file and copy/paste the following into it:
@@ -58,6 +58,6 @@ h2 { color: blue; }
 16. Create a Pull Request for this branch to be merged into `main`
 17. To submit your assignment, put the URL of your GitHub repository in a `.txt` file, zip the file and then upload it through your student portal so we can verify the commit history is correct. DO NOT MERGE YOUR PR UNTIL IT HAS BEEN APPROVED. A Devslopes mentor will review your PR (Pull Request), comment as necessary and reject or approve your PR
 
-
 ## Notes:
+
 1. If you realize your PR includes files that are not supposed to be tracked, you can delete your local and remote repository and start over.
